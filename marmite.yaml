@@ -1,12 +1,12 @@
 name: Your Blog
 tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+url: https://brunogomes011.github.io/tech
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
   - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Github", "https://github.com/brunogomes011"]
 
 
 # More options available to customize the website
