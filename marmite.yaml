@@ -1,11 +1,11 @@
-name: Your Blog
-tagline: Things you talk about
+name: '[tech]$ Bruno Gomes'
+tagline: This is a place to talk about tech
 url: https://brunogomes011.github.io/tech
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
+  - ["LinkedIn", "https://www.linkedin.com/in/bruno-gomes-a47a7b66"]
   - ["Github", "https://github.com/brunogomes011"]
 
 
