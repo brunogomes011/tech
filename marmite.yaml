@@ -1,6 +1,7 @@
 name: '[tech]$ Bruno Gomes'
 tagline: This is a place to talk about tech
 url: https://brunogomes011.github.io/tech
+banner_image: media/_banner_image.jpg
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
