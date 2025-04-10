@@ -1,14 +1,15 @@
 name: '[tech]$ Bruno Gomes'
 tagline: This is a place to talk about tech
 url: https://brunogomes011.github.io/tech
-banner_image: media/_banner_image.jpg
+banner_image: media/home-image.jpg
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
   - ["LinkedIn", "https://www.linkedin.com/in/bruno-gomes-a47a7b66"]
   - ["Github", "https://github.com/brunogomes011"]
-
+extra:
+  colorscheme: monokai
 
 # More options available to customize the website
 # read on https://rochacbruno.github.io/marmite/tag/customization.html
