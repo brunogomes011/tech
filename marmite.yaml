@@ -9,7 +9,7 @@ menu:
   - ["LinkedIn", "https://www.linkedin.com/in/bruno-gomes-a47a7b66"]
   - ["Github", "https://github.com/brunogomes011"]
 extra:
-  colorscheme: monokai
+  colorscheme: typewriter
 
 # More options available to customize the website
 # read on https://rochacbruno.github.io/marmite/tag/customization.html
