@@ -1,0 +1,21 @@
+# The power of fundamentals 
+
+In my daily routine, I interact with a high quantity of engineers from the industry. It is interesting see how the system administrators changed their roles in the last 10-15 years. 
+
+My first work experience in IT was in a data center company. In my first days, I had to learn a lot about network engineering from a big network with a high quantity of high performance routers, etc. 
+
+During those years, the IT industry did not have the quantity of investment that we have today and we had completely different roles in enterprise perspective. 
+
+The agile was not much applied yet and there were roles like Network engineer, Linux admin, Windows admin, Helpdesk, etc.
+
+Despite these roles still exist in several companies, these roles were part of the software development process. The famous roles like cloud, platform, DevOps, site reliability engineers did not exist. 
+
+I can say that the infrastructure professionals are already aware about career transition, automation and a completely change of your activities. I am not one developer, but it looks like that the developers don't know what is a career transition like this. 
+
+In a day you need to stop/start in a daemon from Linux. In the day after, you need to use Ansible to configure your Kubernetes. Use GitOps. 
+
+I would say that the former infrastructure engineers had to learn code, automation, Linux, network... That's a crazy change in my opinion.
+
+There are engineers that are not good with coding, but they are troubleshoot masters. 
+
+I can say that currently there are some DevOps engineers that are coding more than troubleshooting complex infrastructure issues. Some of them have a huge difficult to understand the pieces and prefer to delete everything and start from scratch again. 
